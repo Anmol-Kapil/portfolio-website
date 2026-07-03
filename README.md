@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built with **Next.js**, **TypeScript**,
 
 ## 🚀 Live Demo
 
-🔗 [https://your-vercel-url.vercel.app](https://portfolio-website-iota-one-95.vercel.app/)
+🔗 [Anmol kapil portfolio](https://portfolio-website-iota-one-95.vercel.app/)
 
 ---
 
@@ -44,43 +44,6 @@ A modern, responsive developer portfolio built with **Next.js**, **TypeScript**,
 - Vercel
 
 ---
-
-## 📂 Featured Projects
-
-### 🔒 Secure Cloud Storage System
-
-- AES-GCM Encryption
-- React + FastAPI
-- SQLite
-- Google Drive API
-- Secure File Management
-
-### 🪖 Smart Safety Helmet
-
-- Arduino
-- GPS
-- LoRa
-- MPU6050
-- BMP280
-- DS18B20
-
-### ☁️ Cloud-Native Blog Deployment using DevSecOps
-
-- Jenkins
-- Docker
-- Terraform
-- Kubernetes
-- Prometheus
-- Grafana
-
----
-
-## 📸 Preview
-
-> Add screenshots of your portfolio here after deployment.
-
----
-
 ## 🧑‍💻 Run Locally
 
 Clone the repository
@@ -119,7 +82,7 @@ npm run dev
 
 💻 GitHub: https://github.com/Anmol-Kapil
 
-🌐 Portfolio: https://your-vercel-url.vercel.app
+🌐 Portfolio: [https://your-vercel-url.vercel.app](https://portfolio-website-iota-one-95.vercel.app/)
 
 ---
 
