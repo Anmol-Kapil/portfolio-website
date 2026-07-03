@@ -82,7 +82,7 @@ npm run dev
 
 💻 GitHub: https://github.com/Anmol-Kapil
 
-🌐 Portfolio: [https://your-vercel-url.vercel.app](https://portfolio-website-iota-one-95.vercel.app/)
+🌐 Portfolio: [Link to Portfolio](https://portfolio-website-iota-one-95.vercel.app/)
 
 ---
 
