@@ -62,9 +62,9 @@ export default function CodingProfiles() {
           </div>
 
           <img
-            src="https://leetcard.jacoblin.cool/anmolkapil8?theme=dark&font=Nunito&ext=heatmap"
+            src="https://leetcard.jacoblin.cool/anmolkapil8?theme=dark&font=Nunito"
             alt="LeetCode Stats"
-            className="w-full rounded-2xl"
+            className="rounded-2xl w-full"
           />
         </motion.a>
 
